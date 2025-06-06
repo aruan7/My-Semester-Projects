@@ -1,4 +1,4 @@
-# Python-Portfolio
+# My-Semester-Projects
 This is where I store all my Python projects
 
  ### Headlines
